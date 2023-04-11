@@ -9,11 +9,11 @@ Alphabetical list of cell lines for reference (reorder as instructed below): BR1
 ### Dose response parameters for afatinib  
 1) What is the rank ordering of the cell lines by activity area (observed) (from lowest to highest) using DIP rate as the effect metric?  
 
-answer: 
+answer: DS3, DS8, DS7, DS8, MGH, BR1
 
 2) What is the rank ordering of the cell lines by activity area (observed) (from lowest to highest) using 72 h viability as the effect metric?
 
-answer: 
+answer: MGH, DS7, DS3, DS9, PC9, DS8, BR1
 
 ### Explore the afatinib-induced responses as time courses and dose-response curves  
 3) Compare the afatinib-induced time courses and dose-response curves of the PC9 variants using Thunor. Which of the following is FALSE?  
